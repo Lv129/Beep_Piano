@@ -1,5 +1,5 @@
 ## 随缘更新ing
-![alt text](image.png)
+![alt text](pic/image.png)
 ## PCB
 5020 蜂鸣器  
 104 106 0603电容  
